@@ -19,8 +19,6 @@
 
 ## Getting Started
 
-Since there are tons of mathematical equations in this repository and GitHub still doesn't support math rendering. For a better experience, please refer to the website - **[CLRS Solutions](https://walkccc.github.io/CLRS/)**.
-
 This repository contains nearly complete solutions to the bible textbook - [**Introduction to Algorithms** _Third Edition_](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) published by [Thomas H. Cormen](https://mitpress.mit.edu/contributors/thomas-h-cormen), [Charles E. Leiserson](https://mitpress.mit.edu/contributors/charles-e-leiserson), [Ronald L. Rivest](https://mitpress.mit.edu/contributors/ronald-l-rivest) and [Clifford Stein](https://mitpress.mit.edu/contributors/clifford-stein).
 
 Hope to reorganize solutions to help more people and myself study algorithms. By using [Markdown (.md)](https://en.wikipedia.org/wiki/Markdown) files, it's much more readable on portable devices now.
@@ -29,7 +27,7 @@ _"Many a little makes a mickle."_
 
 ## Contributors
 
-Thanks to: the Instructor's Manual by [Thomas H. Cormen](https://mitpress.mit.edu/contributors/thomas-h-cormen), [@skanev](https://github.com/skanev), [@CyberZHG](https://github.com/CyberZHG), [@yinyanghu](https://github.com/yinyanghu), [@ajl213](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html), etc.
+Thanks to: [@skanev](https://github.com/skanev), [@CyberZHG](https://github.com/CyberZHG), [@yinyanghu](https://github.com/yinyanghu), [@ajl213](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html), etc.
 
 Special thanks to [@JeffreyCA](https://github.com/JeffreyCA), who fixed math rendering on iOS Safari in [#26](https://github.com/walkccc/CLRS/pull/26).
 

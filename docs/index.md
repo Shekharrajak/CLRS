@@ -10,7 +10,7 @@ _"Many a little makes a mickle."_
 
 ## Contributors
 
-Thanks to: the Instructor's Manual by [Thomas H. Cormen](https://mitpress.mit.edu/contributors/thomas-h-cormen), [@skanev](https://github.com/skanev), [@CyberZHG](https://github.com/CyberZHG), [@yinyanghu](https://github.com/yinyanghu), [@ajl213](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html), etc.
+Thanks to: [@skanev](https://github.com/skanev), [@CyberZHG](https://github.com/CyberZHG), [@yinyanghu](https://github.com/yinyanghu), [@ajl213](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html), etc.
 
 Special thanks to [@JeffreyCA](https://github.com/JeffreyCA), who fixed math rendering on iOS Safari in [#26](https://github.com/walkccc/CLRS/pull/26).
 
